@@ -7,5 +7,5 @@ backups/
 __pycache__/
 .vscode/
 .venv/
-nucleo/
+
 LEIA-ME.md
