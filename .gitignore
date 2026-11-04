@@ -1,0 +1,11 @@
+# dados e senhas: NUNCA subir para o GitHub
+estoque_ti.json
+usuarios_ti.json
+sessoes_ti.json
+backups/
+*.tmp
+__pycache__/
+.vscode/
+.venv/
+nucleo/
+LEIA-ME.md
